@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Lidgren.Network.Core" Version="8.0.30703" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Boxsie.Core\Boxsie.Core.csproj" />
+    <ProjectReference Include="..\Boxsie.Network.Core\Boxsie.Network.Core.csproj" />
+  </ItemGroup>
+
+</Project>

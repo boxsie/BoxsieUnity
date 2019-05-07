@@ -1,0 +1,16 @@
+D:\Projects\Boxsie\Boxsie.Core\bin\release\netstandard2.0\Boxsie.Core.deps.json
+D:\Projects\Boxsie\Boxsie.Core\bin\release\netstandard2.0\Boxsie.Core.dll
+D:\Projects\Boxsie\Boxsie.Core\bin\release\netstandard2.0\Boxsie.Core.pdb
+D:\Projects\Boxsie\Boxsie.Core\obj\release\netstandard2.0\Boxsie.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Boxsie\Boxsie.Core\obj\release\netstandard2.0\Boxsie.Core.AssemblyInfoInputs.cache
+D:\Projects\Boxsie\Boxsie.Core\obj\release\netstandard2.0\Boxsie.Core.AssemblyInfo.cs
+D:\Projects\Boxsie\Boxsie.Core\obj\release\netstandard2.0\Boxsie.Core.dll
+D:\Projects\Boxsie\Boxsie.Core\obj\release\netstandard2.0\Boxsie.Core.pdb
+C:\Users\daniel.holmes\Dropbox\Boxsie\Boxsie.Core\bin\Release\netstandard2.0\Boxsie.Core.deps.json
+C:\Users\daniel.holmes\Dropbox\Boxsie\Boxsie.Core\bin\Release\netstandard2.0\Boxsie.Core.dll
+C:\Users\daniel.holmes\Dropbox\Boxsie\Boxsie.Core\bin\Release\netstandard2.0\Boxsie.Core.pdb
+C:\Users\daniel.holmes\Dropbox\Boxsie\Boxsie.Core\obj\Release\netstandard2.0\Boxsie.Core.csproj.CoreCompileInputs.cache
+C:\Users\daniel.holmes\Dropbox\Boxsie\Boxsie.Core\obj\Release\netstandard2.0\Boxsie.Core.AssemblyInfoInputs.cache
+C:\Users\daniel.holmes\Dropbox\Boxsie\Boxsie.Core\obj\Release\netstandard2.0\Boxsie.Core.AssemblyInfo.cs
+C:\Users\daniel.holmes\Dropbox\Boxsie\Boxsie.Core\obj\Release\netstandard2.0\Boxsie.Core.dll
+C:\Users\daniel.holmes\Dropbox\Boxsie\Boxsie.Core\obj\Release\netstandard2.0\Boxsie.Core.pdb
